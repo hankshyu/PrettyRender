@@ -1,4 +1,4 @@
-## What is PrettyRender
+## What does PrettyRender do?
 
 PrettyRender renders a floorplanning into an **interactive** plot. The plot includes easy-to-use interface for users to select/unselect attributes of item in the plot. Meanwhile, the legend is also interactive, making pinpoint elements easier than ever!
 
